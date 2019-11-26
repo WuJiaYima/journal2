@@ -45,3 +45,8 @@ th {
 .cellcolor {
   background-color: #fcba7a;
 }
+li {
+  list-style-image: url(../journal2/images/backpack.gif);
+  padding-top: 5px;
+  margin-left: 20px;
+}
